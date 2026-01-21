@@ -16,7 +16,7 @@ export default function Home() {
       title: "MEMORY-CENTRIC DATA CLOUD",
       subtitle: "The Complete AI Data Stack — From Memory to Insights.",
       description:
-        "Enterprise-proven memory platform delivering integrated memory management, data LLM, and AI analytics. The complete infrastructure for intelligent AI systems",
+        "Enterprise-proven memory platform delivering integrated memory management, data LLM, and AI analytics. The complete infrastructure for intelligent AI systems.",
       videoName: "main",
       logo: "",
     },
